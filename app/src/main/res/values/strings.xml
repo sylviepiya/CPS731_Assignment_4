@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Recycler View Lab 4</string>
+    <string name="showTitle">Title</string>
+    <string name="showDescription">Description</string>
+    <string name="txtTitle">" "</string>
+    <string name="txtDescription">" "</string>
     <string-array name="different_shows">
         <item>Brooklyn Nine-Nine</item>
         <item>The Good Place</item>
