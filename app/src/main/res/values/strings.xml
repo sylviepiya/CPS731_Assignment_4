@@ -15,20 +15,31 @@
         <item>Suits</item>
         <item>Friends</item>
         <item>Haikyuu</item>
-        <item>Greys Anatomy</item>
+        <item>Jane the Virgin</item>
     </string-array>
 
     <string-array name="description">
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
-        <item>This is a random description</item>
+        <item>Brooklyn Nine Nine follows the exploits of hilarious Detective Jake Peralta and his diverse
+            lovable colleagues as they police the NYPDs 99th Precinct</item>
+        <item>Eleanor a deceased saleswoman who lived a morally corrupt life finds herself in a heaven-like
+            afterlife in a case of mistaken identity and tries to hide her past in order to stay there</item>
+        <item>A modernized reboot of the 1980s primetime soap follows two of Americas wealthiest families
+            the Carringtons and the Colbys as they feud for control over their fortune and their children</item>
+        <item>Lorelai Gilmore an independent young woman shares a close bond with her wilful daughter Rory
+            However her relationship with her own mother is strained</item>
+        <item>Blair Waldorf is a popular student at her private school and envied by one and all But her
+            perfect life is unsettled when her ex best friend enrols in the same institution</item>
+        <item>While running a convenience store in Toronto members of a Korean Canadian family deal with
+            customers each other and the evolving world around them</item>
+        <item>Frank Underwood is a Democrat appointed as the secretary of state Along with his wife he sets
+            out on a quest to seek revenge on the people who betrayed him while successfully rising to supremacy</item>
+        <item>Mike Ross a talented young college dropout is hired as an associate by Harvey Specter one of New Yorks
+            best lawyers They must handle cases while keeping Mikes qualifications a secret</item>
+        <item>Follow the lives of six reckless adults living in Manhattan as they indulge in adventures which make their
+            lives both troublesome and happening</item>
+        <item>Haikyu is a Japanese manga series written and illustrated by Haruichi Furudate The story follows
+            Shoyo Hinata a boy determined to become a great volleyball player despite his small stature</item>
+        <item>Jane Villanuevas life turns upside down after she gets artificially inseminated She is in for a greater
+            shock when she discovers that the biological donor is her boss and former crush</item>
     </string-array>
 </resources>
