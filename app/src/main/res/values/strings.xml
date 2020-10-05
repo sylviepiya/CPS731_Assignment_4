@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycler View Lab 4</string>
+    <string-array name="different_shows">
+        <item>Brooklyn Nine-Nine</item>
+        <item>The Good Place</item>
+        <item>Dynasty</item>
+        <item>Gilmore Girls</item>
+        <item>Gossip Girl</item>
+        <item>Kims Convenience</item>
+        <item>House of Cards</item>
+        <item>Suits</item>
+        <item>Friends</item>
+        <item>Haikyuu</item>
+        <item>Greys Anatomy</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+    </string-array>
+</resources>
